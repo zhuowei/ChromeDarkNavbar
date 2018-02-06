@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <style name="MainTheme" parent="MainThemeBase"/>
+  <style name="FullscreenWhite" parent="FullscreenWhiteBase"/>
+  <style name="ThemeWithActionBar" parent="ThemeWithActionBarBase"/>
+  <style name="DialogWhenLarge" parent="DialogWhenLargeBase"/>
+</resources>
