@@ -3,4 +3,5 @@
 
     <overlay android:targetPackage="com.android.chrome"
         android:priority="1"/>
+    <application android:label="@string/chromedarknavbar_theme_name" android:hasCode="false"/>
 </manifest>

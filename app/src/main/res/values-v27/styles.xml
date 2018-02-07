@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools">
-  <style name="MainTheme" parent="MainThemeBase"/>
-  <style name="FullscreenWhite" parent="FullscreenWhiteBase"/>
-  <style name="ThemeWithActionBar" parent="ThemeWithActionBarBase"/>
-  <style name="DialogWhenLarge" parent="DialogWhenLargeBase"/>
+  <style name="MainTheme" parent="@*com.android.chrome:style/MainThemeBase"/>
+  <style name="FullscreenWhite" parent="@*com.android.chrome:style/FullscreenWhiteBase"/>
+  <style name="ThemeWithActionBar" parent="@*com.android.chrome:style/ThemeWithActionBarBase"/>
+  <style name="DialogWhenLarge" parent="@*com.android.chrome:style/DialogWhenLargeBase"/>
 </resources>
